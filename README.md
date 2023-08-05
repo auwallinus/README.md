@@ -1,11 +1,11 @@
 # README.md
-# [Your Name]
+# Auwal Linus
 
 [Your profile picture]
 
 ## About
 
-I'm a [your job title] with experience in [list of technologies]. I'm passionate about [your interests] and I'm always looking for new challenges.
+I'm a dedicated Frontend Developer who is about to graduate with no working experience yet but i have experience in [react.dev]. I'm passionate about [your interests] and I'm always looking for new challenges.
 
 ## Projects
 
